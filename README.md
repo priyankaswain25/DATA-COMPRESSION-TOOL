@@ -52,3 +52,5 @@ Moreover, this task laid the foundation for understanding lossless compression t
 Overall, this project deepened my algorithmic thinking and taught me how to create utility-based programs with practical relevance and industry-level logic.
 
 *OUTPUT*
+
+<img width="1919" height="1017" alt="Image" src="https://github.com/user-attachments/assets/ae231312-c103-4182-b677-d52edeb1a64a" />
